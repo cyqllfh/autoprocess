@@ -1,0 +1,324 @@
+/home/chu/workspace/git/myspider
+crawling begin
+*******Current UserAgent:Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1************
+https://bj.nuomi.com/film/9965/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+https://bj.nuomi.com/film/9805/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1************
+https://bj.nuomi.com/film/9962/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+https://bj.nuomi.com/film/9961/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+https://bj.nuomi.com/film/9927/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+https://bj.nuomi.com/film/10053/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3************
+https://bj.nuomi.com/film/10027/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+https://bj.nuomi.com/film/10049/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3************
+https://bj.nuomi.com/film/10032/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+https://bj.nuomi.com/film/9958/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+https://bj.nuomi.com/film/9963/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3************
+https://bj.nuomi.com/film/9543/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+https://bj.nuomi.com/film/10179/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+https://bj.nuomi.com/film/9719/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11************
+https://bj.nuomi.com/film/10061/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+https://bj.nuomi.com/film/8895/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+https://bj.nuomi.com/film/9825/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+https://bj.nuomi.com/film/9868/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1************
+https://bj.nuomi.com/film/8896/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3************
+https://bj.nuomi.com/film/47/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+http://bj.nuomi.com/film/9961/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=3
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+https://bj.nuomi.com/film/9530/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3************
+http://bj.nuomi.com/film/10053/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=3
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+http://bj.nuomi.com/film/9962/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=3
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+http://bj.nuomi.com/film/9927/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=3
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+https://bj.nuomi.com/film/8156/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+http://bj.nuomi.com/film/9963/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=3
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+http://bj.nuomi.com/film/10049/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=3
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11************
+http://bj.nuomi.com/film/9961/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=4
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3************
+http://bj.nuomi.com/film/10032/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=3
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+http://bj.nuomi.com/film/9958/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=3
+*******Current UserAgent:Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3************
+http://bj.nuomi.com/film/9543/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=3
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+http://bj.nuomi.com/film/10061/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=3
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1************
+http://bj.nuomi.com/film/9719/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=3
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3************
+https://bj.nuomi.com/film/14/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+http://bj.nuomi.com/film/10049/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=4
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3************
+http://bj.nuomi.com/film/9927/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=4
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+http://bj.nuomi.com/film/9962/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=4
+*******Current UserAgent:Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+https://bj.nuomi.com/film/9289/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11************
+https://bj.nuomi.com/film/8114/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+https://bj.nuomi.com/film/9441/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+http://bj.nuomi.com/film/9958/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=4
+https://bj.nuomi.com/film/9960/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1************
+http://bj.nuomi.com/film/10032/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=4
+http://bj.nuomi.com/film/10061/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=4
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+https://bj.nuomi.com/film/3328/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+https://bj.nuomi.com/film/9363/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3************
+http://bj.nuomi.com/film/9543/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=4
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3************
+http://bj.nuomi.com/film/9927/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=5
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+https://bj.nuomi.com/film/8805/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+https://bj.nuomi.com/film/48/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+http://bj.nuomi.com/film/9719/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=4
+https://bj.nuomi.com/film/7090/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+http://bj.nuomi.com/film/9962/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=5
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+http://bj.nuomi.com/film/9961/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=5
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11************
+*******Current UserAgent:Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_0) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1062.0 Safari/536.3************
+http://bj.nuomi.com/film/9958/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=5
+https://bj.nuomi.com/film/7106/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+http://bj.nuomi.com/film/10061/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=5
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1************
+http://bj.nuomi.com/film/10032/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=5
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+http://bj.nuomi.com/film/9927/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=6
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+http://bj.nuomi.com/film/9543/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=5
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.0 Safari/536.3************
+https://bj.nuomi.com/film/10244/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+https://bj.nuomi.com/film/9583/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+http://bj.nuomi.com/film/9719/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=5
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+http://bj.nuomi.com/film/9962/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=6
+https://bj.nuomi.com/film/10022/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11************
+https://bj.nuomi.com/film/9947/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (X11; CrOS i686 2268.111.0) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.57 Safari/536.11************
+http://bj.nuomi.com/film/10061/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=6
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+http://bj.nuomi.com/film/9958/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=6
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1************
+https://bj.nuomi.com/film/9851/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+http://bj.nuomi.com/film/10032/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=6
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.36 Safari/536.5************
+https://bj.nuomi.com/film/9872/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+https://bj.nuomi.com/film/10023/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+https://bj.nuomi.com/film/10028/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+https://bj.nuomi.com/film/9777/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+http://bj.nuomi.com/film/9543/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=6
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+http://bj.nuomi.com/film/9719/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=6
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1************
+http://bj.nuomi.com/film/9962/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=7
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+https://bj.nuomi.com/film/9717/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=2
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/22.0.1207.1 Safari/537.1************
+http://bj.nuomi.com/film/9958/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=7
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+http://bj.nuomi.com/film/9543/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=7
+http://bj.nuomi.com/film/10032/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=7
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/19.77.34.5 Safari/537.1************
+http://bj.nuomi.com/film/9962/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=8
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1063.0 Safari/536.3************
+http://bj.nuomi.com/film/9719/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=7
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+http://bj.nuomi.com/film/9962/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=9
+*******Current UserAgent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5************
+http://bj.nuomi.com/film/10061/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=7
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+http://bj.nuomi.com/film/9719/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=8
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/535.24 (KHTML, like Gecko) Chrome/19.0.1055.1 Safari/535.24************
+http://bj.nuomi.com/film/9719/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=9
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6************
+http://bj.nuomi.com/film/10061/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=8
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3************
+http://bj.nuomi.com/film/10061/0-0/subd/cb0-d10000-s0-o-b1-f0?pn=9
+*******Current UserAgent:Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1090.0 Safari/536.6************
+spawn scp -o StrictHostKeyChecking=no nuomi_20160520183101471268.json root@192.168.1.13:/opt/nuomi
+root@192.168.1.13's password: 
+nuomi_20160520183101471268.json                 0%    0     0.0KB/s   --:-- ETAnuomi_20160520183101471268.json               100%  170KB 170.3KB/s   00:00    
+crawling end
+ rm nuomi_20160520183101471268.json
+send message
+hdfs
+0
+11
